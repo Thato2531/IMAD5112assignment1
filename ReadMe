@@ -1,1 +1,18 @@
+IMAD5112 assignment 1
 
+I've created an app using AndroidStudio app and coded using kotlin style.
+The name of the app is Easy Dining!
+
+This app is about having to select different types of food accoring to the type of day you choose.
+This app also contain the food options that you would like to choose according to the time of day that you would love to have or choose.
+The type f options a user should insert when finiding food suggestions:
+- Morning
+- Mid-Morning
+- Afternoon
+- Mid-Afternoon
+- Night
+- Dessert
+It also contain of two buttons that you click doing a certain function, one button you click displays the food options according to the time of day that you chose,
+the other button is the remove button, when you click the button it removes data so that you can choose again if you would love to select another option
+When you've inserted incorrect data the buttons won't work instead it will how you that you typed wrong information as you must strictly type correct data for you
+to get food suggestions that you would love to have

@@ -3,8 +3,8 @@ IMAD5112 assignment 1
 I've created an app using AndroidStudio app and coded using kotlin style.
 The name of the app is Easy Dining!
 
-This app is about having to select different types of food accoring to the type of day you choose.
-This app also contain the food options that you would like to choose according to the time of day that you would love to have or choose.
+This app is about having to select different types of food according to the type of day you choose.
+This app also contains the food options that you would like to choose according to the time of day that you would love to have or choose.
 The type f options a user should insert when finiding food suggestions:
 - Morning
 - Mid-Morning
